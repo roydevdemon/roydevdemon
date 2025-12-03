@@ -49,10 +49,5 @@ I hope my journey sparks new ideas in you too.
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-<br/><br/>
-
-**If you want to turn fantasies into reality together — feel free to reach out anytime.**  
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydevdemon&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 </div>
